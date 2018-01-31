@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{methods for applications i will use.}
   spec.description   = %q{provides generated HTML data for rails applications.}
-  spec.homepage      = "will be back :D ."
+  spec.homepage      = "https://github.com/winderbinder/Alonso_gem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
